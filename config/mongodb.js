@@ -1,6 +1,6 @@
 const mongoose=require('mongoose');
 
-const url = "mongodb+srv://raxitbambharoliya:raxit08@cluster0.h789rwv.mongodb.net/e__com";
+const url = "mongodb+srv://jikadarajenish:jenish1234@cluster0.rleihl5.mongodb.net/ecom";
 
 const db={
     useNewUrlParser: true,
